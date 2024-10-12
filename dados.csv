@@ -1,0 +1,61 @@
+comércio,alimento,data da doação,data de validade,quantidade,valor calórico,tipo de alimento,dias restantes
+Walmart,Arroz,2022-01-05,2024-01-05,10,640,Não perecível,730
+Carrefour,Feijão,2022-02-15,2023-12-31,8,1400,Não perecível,684
+Fogo de Chão,Frango Assado,2022-03-10,2022-03-14,1,1200,Perecível,4
+Dia,Leite em Pó,2022-04-20,2024-06-30,5,2000,Não perecível,800
+Mocotó,Salada Mista,2022-05-08,2022-05-12,2,500,Perecível,4
+Walmart,Macarrão,2022-06-15,2023-12-31,6,1800,Não perecível,565
+Carrefour,Óleo de Soja,2022-07-20,2024-12-31,3,900,Não perecível,894
+D.O.M.,Bife à Parmegiana,2022-08-10,2022-08-15,1,1800,Perecível,5
+Dia,Café em Pó,2022-09-05,2023-06-30,4,3000,Não perecível,298
+Maní,Pizza Margherita,2022-10-15,2022-10-18,1,2000,Perecível,3
+Walmart,Feijão,2022-01-05,2023-12-31,12,1400,Não perecível,726
+Carrefour,Óleo de Girassol,2022-02-10,2023-12-31,5,900,Não perecível,689
+Fogo de Chão,Arroz,2022-03-15,2024-03-15,3,640,Perecível,1095
+Dia,Açúcar,2022-04-25,2024-12-31,8,4000,Não perecível,981
+Mocotó,Peixe Grelhado,2022-05-12,2022-05-15,2,800,Perecível,3
+Walmart,Farinha de Trigo,2022-06-20,2023-12-31,7,1500,Não perecível,559
+Carrefour,Cereal Matinal,2022-07-25,2023-06-30,4,1200,Não perecível,340
+D.O.M.,Salada Caesar,2022-08-15,2022-08-18,1,500,Perecível,3
+Dia,Chocolate em Pó,2022-09-10,2023-12-31,3,1800,Não perecível,507
+Maní,Pizza Calabresa,2022-10-20,2022-10-23,2,2200,Perecível,3
+Walmart,Feijão Mulatinho,2026-03-05,2027-12-31,10,1350,Não perecível,1396
+Carrefour,Milho em Conserva,2026-04-10,2027-06-30,4,120,Não perecível,436
+Fogo de Chão,Risoto de Frutos do Mar,2026-05-15,2026-05-18,1,680,Perecível,3
+Dia,Molho de Soja,2026-06-20,2027-12-31,3,50,Não perecível,701
+Mocotó,Torta de Frango,2026-07-08,2026-07-12,2,320,Perecível,3
+Walmart,Leite de Coco,2026-08-15,2027-12-31,5,196,Não perecível,1399
+Carrefour,Milho para Pipoca,2026-09-20,2027-06-30,2,360,Não perecível,570
+D.O.M.,Strogonoff de Camarão,2026-10-10,2026-10-15,1,520,Perecível,5
+Dia,Cereais Matinais,2026-11-05,2027-12-31,6,280,Não perecível,605
+Maní,Salada Caprese,2026-12-15,2026-12-18,1,180,Perecível,3
+Walmart,Arroz,2027-01-05,2029-01-31,8,640,Não perecível,1439
+Carrefour,Molho de Mostarda,2027-02-10,2028-06-30,5,89,Não perecível,923
+Fogo de Chão,Peito de Frango Grelhado,2027-03-15,2027-03-18,2,220,Perecível,3
+Dia,Azeite de Dendê,2027-04-25,2028-12-31,3,884,Não perecível,882
+Mocotó,Sopa de Cebola,2027-05-12,2027-05-15,1,90,Perecível,3
+Walmart,Macarrão Espaguete,2027-06-20,2028-12-31,7,352,Não perecível,1024
+Carrefour,Achocolatado em Pó,2027-07-25,2028-06-30,4,380,Não perecível,544
+D.O.M.,Frango à Passarinho,2027-08-15,2027-08-18,2,320,Perecível,3
+Dia,Amendoim Torrado,2027-09-10,2028-12-31,3,567,Não perecível,919
+Maní,Torta de Maçã,2027-10-20,2027-10-25,1,280,Perecível,3
+Walmart,Feijão Fradinho,2027-11-05,2028-12-31,9,1300,Não perecível,1696
+Carrefour,Tempero em Pó,2027-12-10,2029-06-30,5,70,Não perecível,1553
+Fogo de Chão,Quibe Assado,2028-01-15,2028-01-18,2,250,Perecível,3
+Dia,Vinagre de Maçã,2028-02-20,2029-12-31,3,15,Não perecível,881
+Mocotó,Torta de Limão,2028-03-08,2028-03-12,1,280,Perecível,3
+Walmart,Café em Pó,2028-04-15,2029-12-31,7,17,Não perecível,1303
+Carrefour,Milho para Canjica,2028-05-20,2029-06-30,4,350,Não perecível,1939
+D.O.M.,Salada Caesar,2028-06-10,2028-06-15,1,120,Perecível,3
+Dia,Açúcar Mascavo,2028-07-05,2029-12-31,5,375,Não perecível,1763
+Maní,Mousse de Maracujá,2028-08-15,2028-08-18,1,200,Perecível,3
+Walmart,Feijão Azuki,2028-09-05,2029-12-31,10,1500,Não perecível,2596
+Carrefour,Tempero de Ervas,2028-10-10,2030-06-30,6,50,Não perecível,1326
+Fogo de Chão,Peixe Assado,2028-11-15,2028-11-18,2,300,Perecível,3
+Dia,Sal Rosa do Himalaia,2028-12-20,2030-12-31,3,0,Não perecível,1402
+Mocotó,Empadão de Frango,2029-01-08,2029-01-12,1,400,Perecível,3
+Walmart,Chocolate em Pó,2029-02-15,2030-12-31,5,380,Não perecível,1826
+Carrefour,Vinagre Balsâmico,2029-03-20,2030-06-30,2,60,Não perecível,1724
+D.O.M.,Ratatouille,2029-04-10,2029-04-15,1,180,Perecível,3
+Dia,Flocos de Milho,2029-05-05,2030-12-31,4,120,Não perecível,1712
+Maní,Panqueca de Banana,2029-06-15,2029-06-18,1,280,Perecível,3
